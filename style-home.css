@@ -46,13 +46,14 @@ ul {
 .imagembeneficios {
 	width: 50%;
 }
-footer {
 
+footer {
 	text-align: center;
 	background: url("bg.jpg");
 	padding: 10px;
 }
-/*.imagem {
-	
+.imagem {
+	padding: 40%;
+	margin-left: 150px;	
 }
 
